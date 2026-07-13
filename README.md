@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Wemmyneat 👋
 
-<!--
-**Wemmyneat/wemmyneat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on: **building and improving software projects**
+- 🌱 I’m currently learning: **new tools, frameworks, and best practices**
+- 👯 I’m looking to collaborate on: **open-source and creative tech ideas**
+- 💬 Ask me about: **development, problem solving, and project setup**
+- 📫 How to reach me: **via GitHub issues/discussions**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Interests
+- Web development
+- Automation
+- Open source collaboration
+
+## 📌 Featured Work
+Check out my repositories for projects, experiments, and ongoing learning.
+
+---
+Thanks for visiting my profile! ⭐
